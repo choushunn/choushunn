@@ -7,7 +7,7 @@
 - https://github.com/choushunn
 
 
-**Languages and Tools:**  
+### Languages and Tools:
 
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=choushunn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="choushunn's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choushunn&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -16,10 +16,10 @@
 #### Top Repositories
 
 
-<a href="#">
+<a href="https://github.com/choushunn/choushunn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choushunn&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="#">
+<a href="https://github.com/choushunn/choushunn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choushunn&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
