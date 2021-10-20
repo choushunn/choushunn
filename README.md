@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @choushunn
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CV.
+- 🌱 I’m currently learning ML.
 - 📫 Contact me via choushunn@stu.cqut.edu.cn.
 
 <!---
