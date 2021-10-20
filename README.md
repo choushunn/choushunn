@@ -6,9 +6,26 @@
 - choushunn@stu.cqut.edu.cn
 - https://github.com/choushunn
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choushunn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![choushunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=choushunn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**Languages and Tools:**  
+
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=choushunn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="choushunn's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choushunn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choushunn&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choushunn&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
 
 <!---
 choushunn/choushunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
