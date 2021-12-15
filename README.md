@@ -1,7 +1,7 @@
 ### About me
 - 👋 Hi, I’m @choushunn
 - 👀 I’m interested in AI+.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning ML and DL.
 
 ### Contact me
 - choushunn@stu.cqut.edu.cn
