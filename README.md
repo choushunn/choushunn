@@ -1,4 +1,6 @@
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=choushunn&theme=ambient-gradient)](https://git.io/streak-stats)</div>
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=choushunn&theme=ambient-gradient)](https://git.io/streak-stats)
+</div>
 
 ### About me
 - 👋 Hi, I’m @choushunn
