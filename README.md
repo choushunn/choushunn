@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=choushunn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="choushunn's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choushunn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=choushunn&show_icons=true&theme=buefy&hide_border=true" alt="choushunn's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choushunn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h1></h1>
