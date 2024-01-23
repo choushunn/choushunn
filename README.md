@@ -42,7 +42,7 @@
 
 <div align="center"> 
   
-  [![Star History Chart](https://api.star-history.com/svg?repos=choushunn/choushunn&type=Timeline)](https://star-history.com/#choushunn/choushunn&Timeline)
+  [![Star History Chart](https://api.star-history.com/svg?repos=choushunn/awesome-RK3588&type=Timeline)](https://star-history.com/#choushunn/awesome-RK3588&Timeline)
   
 </div>
 
