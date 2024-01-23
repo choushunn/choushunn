@@ -12,11 +12,23 @@
 - 👀 I’m interested in AI+.
 - 🌱 I’m currently learning ML and DL.
 
+
+<!--Link-Speed-->
+### Link-Speed
+<div align="center"> 
+  <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
+  <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
+  <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
+</div>
+
+
 ### Contact me
 - choushunn@stu.cqut.edu.cn
 - https://github.com/choushunn
 
 
+
+  
 ### Languages and Tools:
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=choushunn&show_icons=true&theme=buefy&hide_border=true" alt="choushunn's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choushunn&layout=compact&theme=buefy&hide_border=true" /></a> |
