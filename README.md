@@ -2,7 +2,7 @@
 <!--Line跑码线-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="16" width="100%">
 
-<h4 align="center">A passionate AI+ developer from China.</h4>
+<h4 align="center">A passionate AI+ researcher from China.</h4>
 
 <!--GitHub Readme Streak Stats-->
 <div style="text-align:center;" align="center">
