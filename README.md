@@ -2,7 +2,7 @@
 <!--Line跑码线-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="16" width="100%">
 
-<h4 align="center">A passionate developer from China.</h4>
+<h4 align="center">A passionate AI+ developer from China.</h4>
 
 <!--GitHub Readme Streak Stats-->
 <div style="text-align:center;" align="center">
@@ -17,7 +17,7 @@
 ## About me
 - 👋 Hi, I’m @choushunn
 - 👀 I’m interested in AI+.
-- 🌱 I’m currently learning ML and DL.
+- 🌱 I’m currently learning DL and optics.
 
 ## Contact me
 - choushunn@stu.cqut.edu.cn
