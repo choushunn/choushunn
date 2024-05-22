@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning DL and optics.
 
 ## Contact me
-- choushunn@163.com
+- zhaung9102@gmail.com
 - https://github.com/choushunn
 
  
