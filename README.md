@@ -32,10 +32,10 @@
   <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
 </div>
 
-## Activity Graph
+<!-- ## Activity Graph -->
 
 <!--贡献速度-->
-<img src="https://ashutosh00710.github.io/github-readme-activity-graph/?username=choushunn&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=choushunn&theme=vue&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 
 ## Star History
